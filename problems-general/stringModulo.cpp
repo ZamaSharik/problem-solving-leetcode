@@ -1,6 +1,6 @@
 // Given 2 numbers N & P. Print N % P.
 
-// 1 <= N <= 1010000
+// 1 <= N <= 10^10000
 // 1 <= P <= 1015
 
 #include <iostream>
